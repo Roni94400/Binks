@@ -1,0 +1,8 @@
+<?php
+>auteur
+>ex_01.php
+touch auteur
+touch ex_01.php
+vim auteur
+
+?;>
